@@ -52,6 +52,16 @@ My research interests include mobile computing, wireless communications and netw
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2024</div><img src='images/IoTJ_2024_1_sys.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Energy-Efficient Joint Optimization of Sensing and Computation in MEC-assisted IoT Using Mean-Field Game](https://ieeexplore.ieee.org/abstract/document/10636723)
+
+**Runchen Xu**, Zheng Chang, Zhu Han, Sahil Garg, Georges Kaddoum and Joel J. P. C. Rodrigues
+
+2024 IEEE Internet of Things Journal (IoTJ)
+
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
