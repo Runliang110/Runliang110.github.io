@@ -52,13 +52,24 @@ My research interests include mobile computing, wireless communications and netw
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2024</div><img src='images/IoTJ_2024_1_sys.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2024</div><img src='images/IoTJ_2024_2_sys.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Energy-Efficient Joint Optimization of Sensing and Computation in MEC-assisted IoT Using Mean-Field Game](https://ieeexplore.ieee.org/abstract/document/10636723)
+[Blockchain-Based Resource Trading in Multi-UAV Edge Computing System](https://ieeexplore.ieee.org/abstract/document/10466714)
 
 **Runchen Xu**, Zheng Chang, Xinran Zhang and Timo H\"am\"al\"ainen
 
 2024 IEEE Internet of Things Journal (IoTJ)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2024</div><img src='images/GM_2023_sys.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Contract-Based Incentive Mechanism for Blockchain-Enabled Federated Learning in Vehicle Edge Computing](https://ieeexplore.ieee.org/abstract/document/10437342)
+
+**Runchen Xu**, Zhiwei Zhao and Geyong Min
+
+2023 IEEE Global Communications Conference}, Kuala Lumpur, Malaysia
 
 </div>
 </div>
