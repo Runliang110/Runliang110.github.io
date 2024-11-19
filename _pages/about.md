@@ -67,9 +67,9 @@ My research interests include mobile computing, wireless communications and netw
 <div class='paper-box-text' markdown="1">
 [Contract-Based Incentive Mechanism for Blockchain-Enabled Federated Learning in Vehicle Edge Computing](https://ieeexplore.ieee.org/abstract/document/10437342)
 
-**Runchen Xu**, Zhiwei Zhao and Geyong Min
+**Runchen Xu**, Zheng Chang, Zhiwei Zhao and Geyong Min
 
-2023 IEEE Global Communications Conference}, Kuala Lumpur, Malaysia
+2023 IEEE Global Communications Conference, Kuala Lumpur, Malaysia
 
 </div>
 </div>
