@@ -56,9 +56,10 @@ My research interests include mobile computing, wireless communications and netw
 
 # 🎖 Honors and Awards
 
-- Academic Scholarship of Chengdu University of Information Technology (4 times in 2018-2022) [[pdf]](../honors_awards/CUIT_ Scholarship.pdf)
-- TEMP
-- Academic Scholarship of Chengdu University of Information Technology (3 times in 2022-Present)
+- National Scholarship for Graduate Students (2024)
+- Young Scholar Award of UESTC (2024)
+- Outstanding Graduate Student Award (2 times in 2023-2024)
+- Academic Scholarship of UESTC (5 times in 2018-2024)
 
 
 
