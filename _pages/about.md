@@ -63,7 +63,7 @@ My research interests include mobile computing, wireless communications and netw
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2024</div><img src='images/GM_2023_sys.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2023</div><img src='images/GM_2023_sys.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Contract-Based Incentive Mechanism for Blockchain-Enabled Federated Learning in Vehicle Edge Computing](https://ieeexplore.ieee.org/abstract/document/10437342)
 
