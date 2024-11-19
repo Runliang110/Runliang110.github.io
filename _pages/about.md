@@ -85,12 +85,12 @@ My research interests include mobile computing, wireless communications and netw
 
 
 # 💻 Experiences
-- *2023.09 - 2024.01*: Serve as teaching assistant for the graduate course "Formal Method".
+#- *2023.09 - 2024.01*: Serve as teaching assistant for the graduate course "Formal Method".
 
-- *2024.02*: Technical program committee reviewer forWCCI 2024.
+#- *2024.02*: Technical program committee reviewer forWCCI 2024.
 
-- *2024.05*: Reviewer for Engineering Applications of Artificial Intelligence.
+#- *2024.05*: Reviewer for Engineering Applications of Artificial Intelligence.
 
-- *2024.03 - 2024.07*: Chengdu KeHongda Technology Co., Ltd.
+#- *2024.03 - 2024.07*: Chengdu KeHongda Technology Co., Ltd.
 
-  I contributed to constructing an intelligent target tracking system and was primarily responsible for researching and reproducing the state-of-the-art occluded face recognition algorithms.
+#  I contributed to constructing an intelligent target tracking system and was primarily responsible for researching and reproducing the state-of-the-art occluded face recognition algorithms.
