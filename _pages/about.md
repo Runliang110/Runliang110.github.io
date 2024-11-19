@@ -79,7 +79,7 @@ My research interests include mobile computing, wireless communications and netw
 
 - National Scholarship for Graduate Students (2024)
 - Young Scholar Award of UESTC (2024)
-- Outstanding Graduate Student Award (2 times in 2023-2024)
+- Outstanding Graduate Student Award of UESTC (2 times in 2023-2024)
 - Academic Scholarship of UESTC (5 times in 2018-2024)
 
 
