@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Runchen Xu"
 description              : ""
-repository               : "RunchenXu/RunchenXu.github.io"
+repository               : "Runliang110/Runliang110.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Runchen Xu"
+  name             : "RunLiang Xu"
   avatar           : "images/RunchenXu1.jpg"
   bio              : "Master student at the University of Electronic Science and Technology of China"
   location         : "Chengdu, China"
